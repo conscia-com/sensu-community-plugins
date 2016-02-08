@@ -1,3 +1,3 @@
-The original sensu-community-plugins have been deprecated! This clone is for internal use only by us. 
+The original sensu-community-plugins have been deprecated! We have not migrated to the new system yes, thus we have cloned the repo.
 
 Be aware! There can be security issues and such with this clone of the sensu-community-plugins!
